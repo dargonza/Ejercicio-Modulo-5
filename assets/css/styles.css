@@ -37,6 +37,12 @@ a:active {
   color: #CDFEAA;
 }
 
+.home {
+  margin: 2rem 0;
+  font-size: 43px;
+  font-weight: 700;
+  letter-spacing: .05rem;
+}
 
 .servicio {
   width: 100%;
