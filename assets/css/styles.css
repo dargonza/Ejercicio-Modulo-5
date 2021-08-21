@@ -37,6 +37,12 @@ a:active {
   color: #CDFEAA;
 }
 
+
+.servicio {
+  width: 100%;
+  border-radius: 5%;
+}
+
 .service-divider {
   margin: 1.3rem 0;
 }
